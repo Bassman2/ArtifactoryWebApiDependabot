@@ -1,0 +1,2 @@
+# ArtifactoryWebApiDependabot-
+Dependabot for ArtifactoryWebApi
