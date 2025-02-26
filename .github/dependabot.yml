@@ -11,7 +11,7 @@ updates:
       interval: "weekly"
       
   - package-ecosystem: "nuget"
-    directory: "ArtifactoryWebApi"
+    directory: "/ArtifactoryWebApi"
     schedule:
       interval: "weekly"
 
